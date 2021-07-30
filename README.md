@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @priteshuae
+- 👀 I’m interested in data.
+- 🌱 I’m currently learning data analytics, python, Advanced SQL
